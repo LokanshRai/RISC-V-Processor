@@ -1,0 +1,15 @@
+macro.v
+dmemory.v
+imemory.v
+memory.v
+pd.v
+register_file.v
+fetch.v
+decode.v
+control.v
+stall_control.v
+bypass.v
+branch_compare.v
+alu.v
+execute.v
+writeback.v
